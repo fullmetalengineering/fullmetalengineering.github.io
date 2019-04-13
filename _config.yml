@@ -22,7 +22,7 @@ subtitle: "A positive peer-learning community"
 # baseurl: "/" # the subpath of your site
 url: "http://fullmetalengineering.github.io" # the base hostname & protocol for your site
 baseurl: ''
-cover: "/assets/cover.jpg"
+# cover: "/assets/cover.jpg"
 logo: "/assets/logo.png"
 
 # Build settings
